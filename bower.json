@@ -1,0 +1,17 @@
+{
+  "name": "angular-tut",
+  "version": "1.0.0",
+  "authors": [
+    "Markus Török <markus.toeroek@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
